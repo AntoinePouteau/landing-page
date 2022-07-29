@@ -1,0 +1,26 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+
+}
+
+.btn-blue:hover {
+	background-color: whitesmoke ;
+	color: #6D71DD ;
+}
+
+.btn-green {
+	background-color: white;
+	padding: 15px 20px;
+	color: #4dd04e;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.btn-green : hover  {
+	background-color: whitesmoke;
+	color: #4dd04e;
+}
